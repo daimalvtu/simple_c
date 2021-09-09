@@ -1,0 +1,6 @@
+﻿  mian.c
+e:\vs c++ 测试文件\day9_3_1\day9_3_1\mian.c(17): warning C4133: “=”: 从“pnode_t”到“node_t *”的类型不兼容
+e:\vs c++ 测试文件\day9_3_1\day9_3_1\mian.c(27): warning C4133: “=”: 从“node_t *”到“pnode_t”的类型不兼容
+e:\vs c++ 测试文件\day9_3_1\day9_3_1\mian.c(30): warning C4133: “=”: 从“node_t *”到“pnode_t”的类型不兼容
+e:\vs c++ 测试文件\day9_3_1\day9_3_1\mian.c(31): warning C4133: “=”: 从“node_t *”到“pnode_t”的类型不兼容
+  day9_3_1.vcxproj -> E:\vs c++ 测试文件\day9_3_1\Debug\day9_3_1.exe
